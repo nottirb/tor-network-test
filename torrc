@@ -1,4 +1,4 @@
 Nickname nottirbrelay
 ORPort 9001
-RelayBandwithRate 100 KB
-RelayBandwithBurst 200 KB
+RelayBandwidthRate 100 KB
+RelayBandwidthBurst 200 KB
