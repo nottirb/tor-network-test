@@ -1,4 +1,6 @@
 Nickname nottirbrelay
 ORPort 9001
+ControlPort 9051
+HashedControlPassword 16:31C0B0BC4DBB369460A4DCE3FAF44331C7EDEE52E14890D60C60DE9FA4
 RelayBandwidthRate 100 KB
 RelayBandwidthBurst 200 KB
